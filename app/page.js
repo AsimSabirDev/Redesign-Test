@@ -3,7 +3,7 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <div class="bg-gradient-to-br from-gray-600 to-slate-800">
+    <div class="bg-gradient-to-br from-gray-600 to-slate-800 overflow-hidden">
       <div class="max-w-6xl mx-auto">
         <div class="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6">
           <div class="sm:col-span-3 sm:py-48 lg:py-32">
